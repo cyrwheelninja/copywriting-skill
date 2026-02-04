@@ -10,10 +10,10 @@ cp -r copywriting/* ~/.claude/skills/copywriting/
 echo "   ✓ Skill files installed"
 
 # Copy Copyhackers prompts
-echo "2. Installing Copyhackers prompts to ~/Documents/Alexana-Projects/copywriting/..."
-mkdir -p ~/Documents/Alexana-Projects/copywriting/
-cp -r copywriting-resources/copyhackers-prompts ~/Documents/Alexana-Projects/copywriting/
-cp copywriting-resources/copyhackers-prompts-index.md ~/Documents/Alexana-Projects/copywriting/
+echo "2. Installing Copyhackers prompts to ~/Documents/copywriting/..."
+mkdir -p ~/Documents/copywriting/
+cp -r copywriting-resources/copyhackers-prompts ~/Documents/copywriting/
+cp copywriting-resources/copyhackers-prompts-index.md ~/Documents/copywriting/
 echo "   ✓ Copyhackers prompts installed"
 
 echo ""
@@ -27,4 +27,4 @@ echo '  > "Write me 10 headline options using the PAS framework"'
 echo ""
 echo "Files installed:"
 echo "  - ~/.claude/skills/copywriting/ (skill)"
-echo "  - ~/Documents/Alexana-Projects/copywriting/ (prompts)"
+echo "  - ~/Documents/copywriting/ (prompts)"

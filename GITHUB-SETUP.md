@@ -52,9 +52,9 @@ Claude Code can clone the repo and install files automatically.
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 cd YOUR-REPO-NAME
 cp -r copywriting ~/.claude/skills/
-mkdir -p ~/Documents/Alexana-Projects/copywriting/
-cp -r copywriting-resources/copyhackers-prompts ~/Documents/Alexana-Projects/copywriting/
-cp copywriting-resources/copyhackers-prompts-index.md ~/Documents/Alexana-Projects/copywriting/
+mkdir -p ~/Documents/copywriting/
+cp -r copywriting-resources/copyhackers-prompts ~/Documents/copywriting/
+cp copywriting-resources/copyhackers-prompts-index.md ~/Documents/copywriting/
 ```
 
 ## Verification

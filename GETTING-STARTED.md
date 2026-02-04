@@ -81,12 +81,12 @@ Claude will select the right prompts and guide you through the process.
 Check the full index to see what each prompt does:
 
 ```
-Read: ~/Documents/Alexana-Projects/copywriting/copyhackers-prompts-index.md
+Read: ~/Documents/copywriting/copyhackers-prompts-index.md
 ```
 
 Or browse the prompts directory:
 ```
-~/Documents/Alexana-Projects/copywriting/copyhackers-prompts/
+~/Documents/copywriting/copyhackers-prompts/
 ```
 
 Each filename is numbered and descriptive:
@@ -142,7 +142,7 @@ You get human-sounding copy, not robotic fluff.
 
 For complete descriptions of all 34 prompts, see:
 ```
-~/Documents/Alexana-Projects/copywriting/copyhackers-prompts-index.md
+~/Documents/copywriting/copyhackers-prompts-index.md
 ```
 
 This file explains:
@@ -199,7 +199,7 @@ Just mention the framework:
 - Full skill documentation: `~/.claude/skills/copywriting/SKILL.md`
 - Frameworks reference: `~/.claude/skills/copywriting/frameworks.md`
 - AI trope list: `~/.claude/skills/copywriting/ai-tropes.md`
-- Prompt index: `~/Documents/Alexana-Projects/copywriting/copyhackers-prompts-index.md`
+- Prompt index: `~/Documents/copywriting/copyhackers-prompts-index.md`
 
 ## Ready to Start?
 

@@ -16,7 +16,7 @@ Core principle: Few-shot learning beats instructions. Provide voice examples, no
 1. Identify what copy Anthony needs
 2. Select the right prompt from the table below
 3. Read the FULL prompt file (they contain specific instructions, not just templates)
-   Path: `~/Documents/Alexana-Projects/copywriting/copyhackers-prompts/[filename]`
+   Path: `~/Documents/copywriting/copyhackers-prompts/[filename]`
 4. Follow the prompt exactly, asking Anthony for any required inputs
 5. Run through ai-tropes.md before delivering final copy
 
@@ -59,7 +59,7 @@ Core principle: Few-shot learning beats instructions. Provide voice examples, no
 | Edit existing copy | 23-seven-copy-sweeps-editing.md | 7-lens editing method |
 | Validate copy/UX | 12-validate-copy-ux.md | Unbiased usability testing questions |
 
-Full index with detailed descriptions: `~/Documents/Alexana-Projects/copywriting/copyhackers-prompts-index.md`
+Full index with detailed descriptions: `~/Documents/copywriting/copyhackers-prompts-index.md`
 
 ## When No Prompt Fits
 
@@ -102,4 +102,4 @@ Quick flags:
 
 - **frameworks.md** - PAS, AIDA, BAB, FAB, PASTOR, SCQA with examples (for quick tasks)
 - **ai-tropes.md** - Words and patterns to avoid
-- **Prompt library** - `~/Documents/Alexana-Projects/copywriting/copyhackers-prompts/`
+- **Prompt library** - `~/Documents/copywriting/copyhackers-prompts/`
