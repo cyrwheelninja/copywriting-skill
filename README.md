@@ -174,7 +174,7 @@ Note: This is optional. The skill usually loads automatically when needed.
 
 ## Support
 
-This skill was created by Anthony at Alexana. The skill follows Claude Code conventions and should work out-of-the-box after installation.
+The skill follows Claude Code conventions and should work out-of-the-box after installation.
 
 For questions about:
 - SKILL.md format: See skill frontmatter (name/description)
