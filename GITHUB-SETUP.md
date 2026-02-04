@@ -69,9 +69,9 @@ The skill should auto-load and work.
 
 ## What's Included
 
-- 41 files total
+- 42 files total
 - 3 skill files (SKILL.md, frameworks.md, ai-tropes.md)
 - 34 Copyhackers prompts
 - 1 index file
 - README and install script
-- ~4,000 lines of copywriting knowledge
+- ~3,600 lines of copywriting knowledge
